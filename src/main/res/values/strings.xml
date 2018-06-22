@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">brainTrainer</string>
+
+    <string name="overview_title">Overview</string>
+    <string name="personCount">House</string>
+    <string name="color">Colors</string>
+    <string name="words">Words</string>
+    <string name="calc">Calculation</string>
+</resources>

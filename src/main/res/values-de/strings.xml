@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GehirnJogging</string>
+    <string name="overview_title">Übersicht</string>
+    <string name="personCount">Haus</string>
+    <string name="color">Farben</string>
+    <string name="words">Wörter</string>
+    <string name="calc">Kopfrechnen</string>
+</resources>
